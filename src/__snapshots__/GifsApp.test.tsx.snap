@@ -1,0 +1,41 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`GifsApp > Should render component properly 1`] = `
+<div>
+  <div
+    class="content-center"
+  >
+    <h1>
+      GIF searcher
+    </h1>
+    <p>
+      Discover and share the perfect GIF
+    </p>
+  </div>
+  <div
+    class="search-container"
+  >
+    <input
+      placeholder="Search anything…"
+      type="text"
+      value=""
+    />
+    <button>
+      Search
+    </button>
+  </div>
+  <div
+    class="previous-searches"
+  >
+    <h2>
+      Previous searches
+    </h2>
+    <ul
+      class="previous-searches-list"
+    />
+  </div>
+  <div
+    class="gifs-container"
+  />
+</div>
+`;
