@@ -103,6 +103,7 @@ Se generará un reporte en la carpeta `coverage/`.
 - [Vitest](https://vitest.dev/)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ---
 
