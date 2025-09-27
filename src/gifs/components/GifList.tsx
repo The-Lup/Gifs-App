@@ -13,7 +13,7 @@ export const GifList: FC<GifListProps> = ({ gifs }) => {
           <img src={gif.url} alt={gif.title} />
           <h3>{gif.title}</h3>
           <p>
-            {gif.width}x{gif.height}(1.5mb)
+            {gif.width}x{gif.height}
           </p>
         </div>
       ))}
