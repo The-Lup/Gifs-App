@@ -20,7 +20,7 @@ Construida con **React + TypeScript**, estilizada con **CSS**, compilada con **V
 
 ```bash
 ├── coverage/           # Reportes de pruebas
-├── dist/               # Archivos compilados para producción
+├── docs/               # Archivos compilados para producción
 ├── node_modules/       # Dependencias del proyecto
 ├── public/             # Archivos estáticos públicos
 ├── src/                # Código fuente principal
